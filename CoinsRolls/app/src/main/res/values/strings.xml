@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coins Rolls</string>
+
+    <string name="welcome">Добро пожаловать</string>
+    <string name="name">Имя</string>
+    <string name="start">Начало</string>
+</resources>
